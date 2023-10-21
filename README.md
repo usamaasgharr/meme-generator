@@ -1,5 +1,5 @@
 
-<h1><a src = "https://meme0generator.netlify.app/">Live Demo</a></h1>
+<h1><a href = "https://meme0generator.netlify.app/">Live Demo</a></h1>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
